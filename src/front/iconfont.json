@@ -1,0 +1,23 @@
+{
+  "id": "2848313",
+  "name": "keyboard",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1351577",
+      "name": "backspace",
+      "font_class": "backspace",
+      "unicode": "e7a9",
+      "unicode_decimal": 59305
+    },
+    {
+      "icon_id": "15984910",
+      "name": "caps-lock-16",
+      "font_class": "caps-lock-16",
+      "unicode": "e704",
+      "unicode_decimal": 59140
+    }
+  ]
+}
